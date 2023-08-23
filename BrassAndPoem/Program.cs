@@ -1,6 +1,9 @@
 ﻿
 //create a "products" variable here to include at least five Product instances. Give them appropriate ProductTypeIds.
 List<Product> products = new List<Product>()
+
+
+
 {
     new Product()
     {
